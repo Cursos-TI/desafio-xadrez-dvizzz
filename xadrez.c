@@ -12,7 +12,7 @@ int main() {
     // Imprime a mensagem "Movimentação da Torre"
     printf("Movimentação da Torre:\n");
 
-    // Usando a estrutura de repetição while para representar a movimentação da Torre
+    // Usando a estrutura de repetição while para representar a movimentação da *Torre*
     while (torre < 5)
     {
         printf("Cima\n"); // Imprime a direção da peça
@@ -24,7 +24,7 @@ int main() {
     // Imprime a mensagem "Movimentação do Bispo"
     printf("Movimentação do Bispo:\n");
 
-    // Usando a estrutura de repetição for para representar a movimentação do Bispo
+    // Usando a estrutura de repetição for para representar a movimentação do *Bispo*
     for (bispo = 0; bispo < 5; bispo++)
     {
         printf("Direita, Cima\n"); // Imprime a direção da peça
@@ -35,7 +35,7 @@ int main() {
     // Imprime a mensagem "Movimentação da Rainha"
     printf("Movimentação da Rainha:\n");
 
-    // Usando a estrutura de repetição do while para representar a movimentação da Torre
+    // Usando a estrutura de repetição do while para representar a movimentação da *Rainha*
     do
     {
         printf("Esquerda\n"); // Imprime a direção da peça
